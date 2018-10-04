@@ -4,10 +4,23 @@ body {
 }
 
 .ui.borderless.menu {
-  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
   box-shadow: none;
   background: none;
-  text-color: #fff;
+  border: none;
+  margin-top: 25px;
+}
+
+.ui.borderless.menu a {
+  color: white;
+  font-weight: bold;
+}
+
+.ui.medium.image {
+  height: 247px;
+  margin-bottom: 150px;
+  margin-top: 100px;
 }
 
 
